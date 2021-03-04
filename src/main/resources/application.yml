@@ -1,0 +1,9 @@
+server:
+  port: 8443
+
+spring:
+  cloud:
+    function:
+      definition: uppercase
+#  main:
+#    web-application-type: reactive
